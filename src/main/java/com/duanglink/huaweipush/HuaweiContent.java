@@ -1,6 +1,8 @@
 package com.duanglink.huaweipush;
 
 public class HuaweiContent {
+    public static boolean finishStart = false;
+
     public String title="";
     public String msg_id="";
     public String content="";
